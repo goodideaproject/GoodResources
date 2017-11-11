@@ -1,4 +1,4 @@
-#1.设计#
+#1.设计
 	
 [zeplin](https://zeplin.io/)：在dev与designer之间共享设计稿；
 
@@ -15,7 +15,7 @@
 [icon在线制作](https://romannurik.github.io/AndroidAssetStudio/index.html)
 
 
-#2.Android框架#
+#2.Android框架
 
 [OkHttp + Retrofit + RxJava + RxAndroid + RxLifecycle](https://github.com/square)：为你的应用提供简洁稳定的网络架构；
 
@@ -27,7 +27,7 @@
 
 [DBFlow](https://github.com/Raizlabs/DBFlow):基于Sqlite的orm工具。
 
-#3.Server#
+#3.Server
 
 [Python + Flask](http://flask.pocoo.org/docs/0.11/)：快速为移动应用搭建稳定安全的后台服务；
 
